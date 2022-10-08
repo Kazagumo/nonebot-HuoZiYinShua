@@ -1,0 +1,6 @@
+{
+	"sourceDirectory": "./src/plugins/ottohzys/HuoZiYinShua/sources/",
+	"ysddSourceDirectory": "./src/plugins/ottohzys/HuoZiYinShua/ysddSources/",
+	"dictFile": "./src/plugins/ottohzys/HuoZiYinShua/dictionary.json",
+	"ysddTableFile": "./src/plugins/ottohzys/HuoZiYinShua/ysddTable.json"
+}

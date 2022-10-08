@@ -1,0 +1,9 @@
+psola
+numpy
+soundfile
+pypinyin
+playsound
+#注意：如果直接用pip install playsound安装，Windows系统下会报错
+#需要去原作者Github页面下载最新的playsound.py
+#https://github.com/TaylorSMarks/playsound/blob/master/playsound.py
+Pillow
